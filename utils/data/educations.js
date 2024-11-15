@@ -2,8 +2,8 @@ export const educations = [
   {
     id: 1,
     title: "Bachelor Degree",
-    duration: "2019 - 2023",
-    institution: "People's University,Bhopal MP",
+    duration: "2017 - 2021",
+    institution: "DR M.G.R Educational and Research Institute",
   },
   {
     id: 2,
