@@ -1,20 +1,25 @@
 export const educations = [
   {
     id: 1,
-    title: "Bachelor Degree",
+    title: "Bachelor of Technology",
     duration: "2017 - 2021",
     institution: "DR M.G.R Educational and Research Institute",
+    location: "Chennai, Tamil Nadu, India",
   },
   {
     id: 2,
-    title: "Senior School Certificate Examination",
+    title: "Higher Secondary Course",
     duration: "2014- 2016",
-    institution: "Raj English School, Varanasi",
+    institution: "R V I C",
+    location: "Varanasi, Uttar Pradesh, India"
+
   },
   {
     id: 3,
-    title: "Secondary School Examination",
+    title: "Senior Secondary Course",
     duration: "2012 - 2014",
-    institution: "Tulsi Vidhya Niketan, Varanasi",
+    institution: "Tulsi Vidhya Niketan",
+    location: "Varanasi, Uttar Pradesh, India"
+  
   }
 ]
